@@ -8,6 +8,7 @@ pycURL package with requirements. get instructions here: http://pycurl.io/
 How it works
 1. save to desktop
 2. run cmd in cmd line 
+  
   cd " location of file"
   
   python weather.py
