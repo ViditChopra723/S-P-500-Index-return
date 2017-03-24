@@ -11,4 +11,5 @@ How it works
   cd " location of file"
   
   python weather.py
+  
 3. to view open the weather.txt file
